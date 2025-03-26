@@ -133,6 +133,32 @@ The **Employee Management System** is a simple Java-based application that demon
 
 ![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/src/EmpManegement/Output.png)
 
+
+# 4. DOM Manipulation - Image Slider
+
+## Project Overview
+This project is a simple **image slider** implemented using **HTML, CSS, and JavaScript**. The slider allows users to navigate through a collection of images using "Next" and "Previous" buttons.
+
+## Features
+- Displays one image at a time.
+- Users can navigate through images using **Next** and **Previous** buttons.
+- Uses an **array of image URLs** for easy modification.
+- Smooth transitions between images.
+- Responsive design for different screen sizes.
+
+## Technologies Used
+- **HTML** - Structure of the slider.
+- **CSS** - Styling and animations.
+- **JavaScript (DOM Manipulation)** - Controls image changes and button functionality.
+
+## How It Works
+1. The slider loads an **array of image URLs**.
+2. The **Next** button moves to the next image.
+3. The **Previous** button moves to the previous image.
+4. Loops back to the first image after reaching the last image.
+
+## 
+
 # 4. Simple Image Slider
 
 This project demonstrates a basic image slider implemented using HTML, CSS, and JavaScript.
@@ -160,4 +186,7 @@ The project consists of an image slider that allows users to cycle through a ser
 
 
 ![Demo Video](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Image-Slider/Image%20Slider.mp4)
+
+
+
 
