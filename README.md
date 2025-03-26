@@ -77,3 +77,6 @@ The `AnagramCheck.java` file contains a Java program that:
 3.  **Execution:**
     * Run the compiled program using the command: `java AnagramCheck`
     * The program will execute and output whether the test strings within the main method are anagrams. You can modify the strings within the main method of the java file to test other strings.
+
+## Output
+![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Anagram-Check/Output_for_Angram.png)
