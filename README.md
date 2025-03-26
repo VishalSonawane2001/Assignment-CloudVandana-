@@ -48,20 +48,32 @@ This project demonstrates a simple and responsive profile card implemented using
 
 ![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Profile%20Card/Profile-card.png)
 
-## Example!
-[...```html
-<div class="profile-card">
-        <img src="Adobe_Express_20240221_1950310_1.png" alt="Profile Picture">
-        <h2>Vishal Sonawane</h2>
-        <h4>Full Stack Developer</h4>
-        <p>Vishal Sonawane | Java Full Stack Developer | Spring Boot, Angular, MySQL | Tech Enthusiast</p>
-        <div class="social-icons">
-            <a href="#"><img src="imageFB.png" alt="Facebook" class="icon"></a>
-            <a href="#"><img src="imageIsta.png" alt="Instagram" class="icon"></a>
-            <a href="#"><img src="imageWP.png" alt="Whatsapp" class="icon"></a>
-            <a href="#"><img src="Linkedin.png" alt="Linkedin" class="icon"></a>
-        </div>
-    </div> ...]
 
 
-**This is bold text**
+# 2. String Manipulation - Anagram Check (Java)
+This project contains a Java program that determines whether two input strings are anagrams of each other. Anagrams are strings that contain the same characters, but in a different order.
+
+## Description
+
+The `AnagramCheck.java` file contains a Java program that:
+
+1.  Takes two strings as input.
+2.  Checks if the lengths of the strings are equal. If not, they cannot be anagrams.
+3.  Converts the strings to character arrays.
+4.  Sorts both character arrays.
+5.  Compares the sorted arrays. If they are equal, the strings are anagrams.
+
+## Files
+
+* `AnagramCheck.java`: The Java source code file.
+
+## Usage
+
+1.  **Prerequisites:** Ensure you have a Java Development Kit (JDK) installed.
+2.  **Compilation:**
+    * Open a terminal or command prompt.
+    * Navigate to the directory containing `AnagramCheck.java`.
+    * Compile the program using the command: `javac AnagramCheck.java`
+3.  **Execution:**
+    * Run the compiled program using the command: `java AnagramCheck`
+    * The program will execute and output whether the test strings within the main method are anagrams. You can modify the strings within the main method of the java file to test other strings.
