@@ -1,3 +1,4 @@
+
 # Assignment-CloudVandana
 
 # 1. Simple Profile Card (HTML & CSS)
@@ -63,5 +64,6 @@ This project demonstrates a simple and responsive profile card implemented using
     </div> 
 </code>
 ...]
+<br>
 
 ## 2. String Manipulation - Anagram Check (Java)
