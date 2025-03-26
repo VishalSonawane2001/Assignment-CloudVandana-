@@ -134,32 +134,33 @@ The **Employee Management System** is a simple Java-based application that demon
 ![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/src/EmpManegement/Output.png)
 
 
-# 4. DOM Manipulation - Image Slider
+# 4. Simple To-Do List (JavaScript, DOM)
 
-## Project Overview
-This project is a simple **image slider** implemented using **HTML, CSS, and JavaScript**. The slider allows users to navigate through a collection of images using "Next" and "Previous" buttons.
+This project implements a basic to-do list application using HTML, CSS, and JavaScript, demonstrating DOM manipulation for dynamic content updates.
 
-## Features
-- Displays one image at a time.
-- Users can navigate through images using **Next** and **Previous** buttons.
-- Uses an **array of image URLs** for easy modification.
-- Smooth transitions between images.
-- Responsive design for different screen sizes.
+## Description
 
-## Technologies Used
-- **HTML** - Structure of the slider.
-- **CSS** - Styling and animations.
-- **JavaScript (DOM Manipulation)** - Controls image changes and button functionality.
+The application allows users to add tasks to a list and remove them as needed. It showcases fundamental JavaScript concepts for handling user input, creating and modifying DOM elements, and managing event listeners.
 
-## How It Works
-1. The slider loads an **array of image URLs**.
-2. The **Next** button moves to the next image.
-3. The **Previous** button moves to the previous image.
-4. Loops back to the first image after reaching the last image.
+## Files
 
-## 
+* `To-Do-List.html`: Contains the HTML structure, CSS styling, and JavaScript code for the to-do list.
 
-# 4. Simple Image Slider
+## Usage
+
+1.  **Open `index.html`:** Open the `index.html` file in a web browser.
+2.  **Add Tasks:**
+    * Type a task into the input field labeled "Add a new task."
+    * Click the "Add" button.
+3.  **Remove Tasks:**
+    * Click the "Remove" button next to a task to delete it from the list.
+
+## Output
+
+
+
+
+# 5. Simple Image Slider
 
 This project demonstrates a basic image slider implemented using HTML, CSS, and JavaScript.
 
