@@ -131,4 +131,4 @@ The **Employee Management System** is a simple Java-based application that demon
 
 ##  Output
 
-![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Employee-Management/Output.png)
+![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/src/EmpManegement/Output.png)
