@@ -132,7 +132,8 @@ The **Employee Management System** is a simple Java-based application that demon
 ##  Output
 
 ![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/src/EmpManegement/Output.png)
-# Simple Image Slider
+
+# 4. Simple Image Slider
 
 This project demonstrates a basic image slider implemented using HTML, CSS, and JavaScript.
 
@@ -154,6 +155,7 @@ The project consists of an image slider that allows users to cycle through a ser
     * Click the "Next" button (▶) to go to the next image.
 3.  **Image Looping:** The slider loops back to the beginning or end when reaching the last or first image, respectively.
 
-## HTML Structure (`slider.html`)
+## Output
+
 
 
