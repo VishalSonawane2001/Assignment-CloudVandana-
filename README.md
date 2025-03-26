@@ -156,6 +156,7 @@ The project consists of an image slider that allows users to cycle through a ser
 3.  **Image Looping:** The slider loops back to the beginning or end when reaching the last or first image, respectively.
 
 ## Output
+[Watch the video](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Image-Slider/Image%20Slider.mp4)
 
 
 ![Demo Video](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Image-Slider/Image%20Slider.mp4)
