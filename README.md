@@ -1,6 +1,6 @@
-# Assignment-CloudVandana-
-Assignment 1
-# Simple Profile Card
+# Assignment-CloudVandana
+
+# 1. Simple Profile Card (HTML & CSS)
 
 This project demonstrates a simple and responsive profile card implemented using HTML and CSS.
 
@@ -38,9 +38,9 @@ This project demonstrates a simple and responsive profile card implemented using
 
 ## Customization
 
-* **Colors:** You can Change the background, text, and hover colors in the CSS to match your preferences.
+* **Colors:** You can change the background, text, and hover colors in the CSS to match your preferences.
 * **Fonts:** Modify the `font-family` property to use a different font.
-* **Size and Spacing:** To change the size and spacing of the card, Adjust the `width`, `padding`, and `margin` properties.
+* **Size and Spacing:** To change the size and spacing of the card, adjust the `width`, `padding`, and `margin` properties.
 * **Social Icons:** Add or remove social media icons as needed.
 
 ## Output!  
@@ -48,7 +48,7 @@ This project demonstrates a simple and responsive profile card implemented using
 ## Example!
 
 
-```html
+[...```html
 <div class="profile-card">
         <img src="Adobe_Express_20240221_1950310_1.png" alt="Profile Picture">
         <h2>Vishal Sonawane</h2>
@@ -60,7 +60,6 @@ This project demonstrates a simple and responsive profile card implemented using
             <a href="#"><img src="imageWP.png" alt="Whatsapp" class="icon"></a>
             <a href="#"><img src="Linkedin.png" alt="Linkedin" class="icon"></a>
         </div>
-    </div>
+    </div> ...]
 
-
-
+# 2. String Manipulation - Anagram Check (Java)
