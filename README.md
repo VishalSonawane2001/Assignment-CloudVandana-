@@ -2,7 +2,7 @@
 
 # 1. Simple Profile Card (HTML & CSS)
 
-This project demonstrates a simple and responsive profile card implemented using HTML and CSS.
+[... This project demonstrates a simple and responsive profile card implemented using HTML and CSS.
 
 ## Features
 
@@ -48,7 +48,7 @@ This project demonstrates a simple and responsive profile card implemented using
 ## Example!
 
 
-[...```html
+```html
 <div class="profile-card">
         <img src="Adobe_Express_20240221_1950310_1.png" alt="Profile Picture">
         <h2>Vishal Sonawane</h2>
