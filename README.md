@@ -46,7 +46,7 @@ This project demonstrates a simple and responsive profile card implemented using
 ## Output!  
 ![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Profile%20Card/Profile-card.png)
 ## Example!
-[..
+[...
 <code>
 ```html
 <div class="profile-card">
@@ -62,6 +62,6 @@ This project demonstrates a simple and responsive profile card implemented using
         </div>
     </div> 
 </code>
-..]
+...]
 
 ## 2. String Manipulation - Anagram Check (Java)
