@@ -2,7 +2,7 @@
 
 # 1. Simple Profile Card (HTML & CSS)
 
-[... This project demonstrates a simple and responsive profile card implemented using HTML and CSS.
+This project demonstrates a simple and responsive profile card implemented using HTML and CSS.
 
 ## Features
 
@@ -47,7 +47,7 @@
 ![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Profile%20Card/Profile-card.png)
 ## Example!
 
-
+<code>
 ```html
 <div class="profile-card">
         <img src="Adobe_Express_20240221_1950310_1.png" alt="Profile Picture">
@@ -60,6 +60,6 @@
             <a href="#"><img src="imageWP.png" alt="Whatsapp" class="icon"></a>
             <a href="#"><img src="Linkedin.png" alt="Linkedin" class="icon"></a>
         </div>
-    </div> ...]
+    </div> </code>
 
-# 2. String Manipulation - Anagram Check (Java)
+## 2. String Manipulation - Anagram Check (Java)
