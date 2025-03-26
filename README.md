@@ -43,7 +43,8 @@ This project demonstrates a simple and responsive profile card implemented using
 * **Size and Spacing:** To change the size and spacing of the card, Adjust the `width`, `padding`, and `margin` properties.
 * **Social Icons:** Add or remove social media icons as needed.
 
-
+## Output!  
+![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Profile%20Card/Profile-card.png)
 ## Example!
 
 
@@ -61,6 +62,5 @@ This project demonstrates a simple and responsive profile card implemented using
         </div>
     </div>
 
-html```
-  
-![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Profile%20Card/Profile-card.png)
+
+
