@@ -45,10 +45,11 @@ This project demonstrates a simple and responsive profile card implemented using
 * **Social Icons:** Add or remove social media icons as needed.
 
 ## Output!  
+
 ![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Profile%20Card/Profile-card.png)
+
 ## Example!
-[...
-```html
+[...```html
 <div class="profile-card">
         <img src="Adobe_Express_20240221_1950310_1.png" alt="Profile Picture">
         <h2>Vishal Sonawane</h2>
@@ -63,3 +64,4 @@ This project demonstrates a simple and responsive profile card implemented using
     </div> ...]
 
 
+**This is bold text**
