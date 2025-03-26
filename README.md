@@ -31,20 +31,20 @@ This project demonstrates a simple and responsive profile card implemented using
 ## Usage
 
 * Modify the `bio.html` file to change the profile picture, name, designation, bio, and social media links.
-* Customize the CSS in the `<style>` tag within the `bio.html` file to adjust the appearance of the card.
+* Customize the CSS in the `<style>` tag within the `bio.html` file to adjust the card's appearance.
 * Replace the placeholder image in the `<img>` tag with your own profile picture.
-* Modify the social media links within the `<a>` tags to correspond to your own profiles.
-* To change the social media icons, change the classnames of the `<i>` tags to the corresponding font awesome icons.
+* Modify the social media links within the `<a>` tags to correspond to your profiles.
+* To change the social media icons, change the classnames of the `<i>` tags to the corresponding font-awesome icons.
 
 ## Customization
 
-* **Colors:** Change the background colors, text colors, and hover colors in the CSS to match your preferences.
+* **Colors:** You can Change the background, text, and hover colors in the CSS to match your preferences.
 * **Fonts:** Modify the `font-family` property to use a different font.
-* **Size and Spacing:** Adjust the `width`, `padding`, and `margin` properties to change the size and spacing of the card.
+* **Size and Spacing:** To change the size and spacing of the card, Adjust the `width`, `padding`, and `margin` properties.
 * **Social Icons:** Add or remove social media icons as needed.
-![Alt text](https://raw.githubusercontent.com/your-username/repository-name/main/Profile Card/Profile-card.png)
+* 
+## Example![Alt text](https://raw.githubusercontent.com/your-username/repository-name/main/Profile Card/Profile-card.png)
 
-## Example
 
 ```html
 <div class="profile-card">
