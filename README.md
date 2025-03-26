@@ -42,7 +42,7 @@ This project demonstrates a simple and responsive profile card implemented using
 * **Fonts:** Modify the `font-family` property to use a different font.
 * **Size and Spacing:** To change the size and spacing of the card, Adjust the `width`, `padding`, and `margin` properties.
 * **Social Icons:** Add or remove social media icons as needed.
-![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Profile%20Card/Profile-card.png)
+
 
 ## Example!
 
@@ -60,3 +60,7 @@ This project demonstrates a simple and responsive profile card implemented using
             <a href="#"><img src="Linkedin.png" alt="Linkedin" class="icon"></a>
         </div>
     </div>
+
+## Output!
+  
+![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Profile%20Card/Profile-card.png)
