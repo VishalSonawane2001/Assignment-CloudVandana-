@@ -132,3 +132,28 @@ The **Employee Management System** is a simple Java-based application that demon
 ##  Output
 
 ![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/src/EmpManegement/Output.png)
+# Simple Image Slider
+
+This project demonstrates a basic image slider implemented using HTML, CSS, and JavaScript.
+
+## Description
+
+The project consists of an image slider that allows users to cycle through a series of images using "Previous" and "Next" buttons. The slider uses CSS transitions for smooth animations and JavaScript for dynamic image shifting.
+
+## Files
+
+* `slider.html`: The HTML structure of the image slider.
+* `slider.css`: The CSS styles for the slider.
+* `slider.js`: The JavaScript logic for handling image transitions.
+
+## Usage
+
+1.  **Open `slider.html`:** Open the `slider.html` file in a web browser.
+2.  **Navigate Images:**
+    * Click the "Previous" button (◀) to go to the previous image.
+    * Click the "Next" button (▶) to go to the next image.
+3.  **Image Looping:** The slider loops back to the beginning or end when reaching the last or first image, respectively.
+
+## HTML Structure (`slider.html`)
+
+
