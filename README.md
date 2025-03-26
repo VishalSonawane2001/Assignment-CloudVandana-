@@ -129,6 +129,6 @@ The **Employee Management System** is a simple Java-based application that demon
    - Ask if you want to **add more employees manually**.
    - Display the final updated list.
 
-## 📌 Example Output
+##  Output
 
-![Alt text](
+![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Employee-Management/Output.png)
