@@ -42,8 +42,9 @@ This project demonstrates a simple and responsive profile card implemented using
 * **Fonts:** Modify the `font-family` property to use a different font.
 * **Size and Spacing:** To change the size and spacing of the card, Adjust the `width`, `padding`, and `margin` properties.
 * **Social Icons:** Add or remove social media icons as needed.
-* 
-## Example![Alt text](https://raw.githubusercontent.com/your-username/repository-name/main/Profile Card/Profile-card.png)
+
+
+## Example!
 
 
 ```html
