@@ -158,4 +158,5 @@ The project consists of an image slider that allows users to cycle through a ser
 ## Output
 
 
+![Demo Video](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Image-Slider/Image%20Slider.mp4)
 
