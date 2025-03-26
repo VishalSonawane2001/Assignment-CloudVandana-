@@ -80,3 +80,55 @@ The `AnagramCheck.java` file contains a Java program that:
 
 ## Output
 ![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Anagram-Check/Output_for_Angram.png)
+
+
+
+# 3. Employee Management System
+
+## 📌 Project Overview
+The **Employee Management System** is a simple Java-based application that demonstrates Object-Oriented Programming (OOP) concepts. It allows users to:
+- Store and manage employee details (ID, name, salary)
+- Display a list of all employees
+- Add new employees manually
+
+## 🛠️ Technologies Used
+- **Java** (Core Java, OOP concepts)
+- **Eclipse IDE** (Recommended for development)
+- **Collections Framework** (ArrayList for storing employees)
+- **Scanner Class** (For user input)
+
+## 📜 Class Descriptions
+### 1️⃣ **Employee.java**
+- A simple class representing an **Employee** with:
+  - `id` (int) - Employee ID
+  - `name` (String) - Employee Name
+  - `salary` (double) - Employee Salary
+- Contains a `displayDetails()` method to print employee details.
+
+### 2️⃣ **EmployeeService.java**
+- Manages a **list of employees** using `ArrayList<Employee>`.
+- Provides methods to:
+  - Add new employees
+  - Display all employees
+
+### 3️⃣ **EmployeeManagement.java** (Main Class)
+- Initializes **three default employees**.
+- Allows the user to **manually add new employees** interactively.
+- Displays the final employee list.
+
+## 🚀 How to Run the Project
+### **Step 1: Setup**
+1. Open **Eclipse IDE** (or any Java-supported IDE).
+2. Create a new **Java Project** (File → New → Java Project).
+3. Copy the `Employee.java`, `EmployeeService.java`, and `EmployeeManagement.java` files into the **src** folder.
+
+### **Step 2: Compile & Run**
+1. Right-click on **EmployeeManagement.java** → `Run As` → `Java Application`.
+2. The program will:
+   - Display the initial list of employees.
+   - Ask if you want to **add more employees manually**.
+   - Display the final updated list.
+
+## 📌 Example Output
+
+![Alt text](
