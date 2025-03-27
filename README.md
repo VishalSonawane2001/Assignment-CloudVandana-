@@ -156,6 +156,7 @@ The application allows users to add tasks to a list and remove them as needed. I
     * Click the "Remove" button next to a task to delete it from the list.
 
 ## Output
+![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/To-Do_list/Output.png)
 
 
 
